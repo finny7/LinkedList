@@ -12,6 +12,8 @@ public class Main {
 //		System.out.println(Math.ceil(2.5) + "\n");
 		
 	 System.out.println("Hello Hi!, this code is on gitHub now!");
+	 
+	 System.out.println("i'm on quick-test Branch");
 		
 		ll.append(2);	
 		
